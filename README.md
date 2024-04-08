@@ -13,6 +13,7 @@ For Twitch Integration - Forked from https://github.com/OfficiallyM/M_ChaosMod
 * Change textures
 * Flip vehicle
 * Spawn a building
-* Reverse vehicle
+* Full reverse vehicle
+* Flip vehicle direction
 * Change the side the poles are on
 * Change biome
